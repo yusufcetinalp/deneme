@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Condensed:ital,wght@0,700;1,300;1,700&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    width: 100%;
+}
+/*FİRST PAGE START*/
+
+.first-page{
+    background-color: #F1F1F1;
+    width: 100%;
+}
+
+header .logo img{
+    width: 75%;
+}
+.logo{
+    margin: 0 37rem;
+    width: 100%;
+}
+
+.shopping img{
+    width: 6rem;
+}
+.shopping{
+    margin-left: 2rem;
+}
+.account img{
+    width: 6rem;
+}
+.nav-item{
+    margin: 3rem;
+}
+.nav-link{
+    color: black;
+}
+.collections{
+    font-size: 5rem;
+    margin-right: 50rem;
+
+}
+.under-collections{
+    font-size: 2rem;
+    width: 70%;
+}
+.shopping-button{
+    background-color: black;
+    width: 17rem;
+    margin-top: 5rem;
+}
+.manken-1 img{
+    width: 75%;
+}
+.shopping-button p{
+    color: white;
+}
+/*FİST PAGE END*/
+
+/*SECOND PAGE START*/
+.second-page{
+    margin-top: 7rem;
+}
+.second-page img{
+    width: 75%;
+}
+.resimler{
+    margin-top: 6rem;
+}
+.dortlu-resim img{
+    width: 35%;
+    margin: 1rem;
+}
+.tek-resim img{
+    width: 75%;
+}
+ /*SECOND PAGE END*/
+ /*THIRD PAGE START*/
+.new-products{
+    text-align: center;
+    font-size: 4rem;
+    margin-top:10rem ;
+}
+.new-menu{
+    padding: 0 10rem;
+}
+.new img{
+    width: 75%;
+    margin-top: 2rem;
+}
+/*THIRD PAGE END*/
+/*FOURTH PAGE START*/
+.fourth-page .backgraund-image{
+    width: 100%;
+    height: 75%;
+    margin-top: 15rem;
+}
+ .zara-logo-1{
+    position: absolute;
+    width: 37%;
+    margin-left:60%;
+    margin-top: 15%;
+ }
+ .zara-logo-2{
+    position: absolute;
+    width: 10%;
+    margin-left:56%;
+    margin-top:27%;    
+ }
+ .See-Collections{
+    position: absolute;
+    margin-top:45%;
+    margin-left: 55%;
+    width: 20%;
+    height: 10%;
+    border-radius: 1rem;
+ } 
+ .See-Collections p{
+    font-size: 2rem;
+    margin-top: 1rem;
+ }
+ .fourth-page-p{
+    position: absolute;
+    margin-top: 45rem;
+    margin-left: 75rem;
+    font-size: 1.5rem;
+    color: white;
+    width: 20%;
+ }
+
+/*FOURTH PAGE END*/
+/*FiFTH PAGE START*/
+.fifth-page img{
+    width: 75%;
+    margin-bottom: 5%;
+}
+.fifth-page h3{
+    text-align: center;
+    font-size: 4rem;
+    margin: 5%;
+     }
+/*FİFTH PAGE END*/
+.sixth-page{
+    background-color:#F1F1F1;
+    padding: 2%;
+}
+.sixth-page h3{
+    text-align: center;
+    font-size: 3rem;
+    margin:5% 0;
+}
+.sixth-page img{
+    width: 75%;
+}
+.sixth-page .email{
+  text-align: center;  
+}
